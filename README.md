@@ -1,7 +1,7 @@
 Team project 2020
  
 Deadlines
-15 June
+19 June 23:59
  
 Downgrade: every day from the deadline the mark drops by 15 percent.
  
